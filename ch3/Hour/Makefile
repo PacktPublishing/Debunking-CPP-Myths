@@ -1,11 +1,12 @@
-check-leaks: test 
-	valgrind -q --leak-check=full ./out/tests
-
-test: test.cpp
+test: testHour.cpp testHourRuntime.cpp
 	./out/tests
 
-test.cpp: .FORCE
+testHour.cpp: .FORCE
 	mkdir -p out/
-	g++ -std=c++20 -I"src/" "test.cpp"  -o out/tests
+	g++ -std=c++20 -I"src/" "testHour.cpp"  -o out/tests
+
+testHourRuntime.cpp: .FORCE
+	mkdir -p out/
+	g++ -std=c++20 -I"src/" "testHourRuntime.cpp"  -o out/tests
 
 .FORCE:

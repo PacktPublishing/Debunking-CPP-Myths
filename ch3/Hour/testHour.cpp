@@ -14,4 +14,3 @@ TEST_CASE("Invalid hour"){
 	constexpr Hour h2 = Hour::make<30>();
 }
 #endif
-
