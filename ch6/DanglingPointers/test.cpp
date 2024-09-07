@@ -2,7 +2,7 @@
 #include "doctest.h" 
 #include "danglingpointers.h"
 
-TEST_CASE("try pointer bounds"){
+TEST_CASE("Try dangling pointer"){
 	int result = danglingPointer();
 
 	CHECK_EQ(234, result);
