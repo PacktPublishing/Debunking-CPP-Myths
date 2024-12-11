@@ -49,7 +49,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-12| Various C++ compilers, which are relevant or not in 2025| Windows, macOS, Linux, or no operating system at all|
+| 1-13| Various C++ compilers, which are relevant or not in 2025| Windows, macOS, Linux, or no operating system at all|
 
 ### Related products
 * Expert C++ - Second Edition [[Packt]](https://www.packtpub.com/en-in/product/expert-c-9781804616123) [[Amazon]](https://www.amazon.com/dp/1804617830)
