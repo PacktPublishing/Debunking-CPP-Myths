@@ -43,13 +43,13 @@ int main() {
 **Following is what you need for this book:**
 This book is for intermediate-to-advanced C++ developers looking to deepen their understanding of the language’s complexities. It is perfect for coders eager to avoid common mistakes, hackers, scholars with a sense of humor, or anyone with an interest in C++. Programmers who want to expand their knowledge, refine existing skills, explore new paradigms, or dive into the nuances of C++, will find valuable insights. Technical leads and software engineering managers adopting new technologies or navigating the C++ ecosystem will also benefit from this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-13| Various C++ compilers, which are relevant or not in 2025| Windows, macOS, Linux, or no operating system at all|
+| 1-12| Various C++ compilers, which are relevant or not in 2025| Windows, macOS, Linux, or no operating system at all|
 
 ### Related products
 * Expert C++ - Second Edition [[Packt]](https://www.packtpub.com/en-in/product/expert-c-9781804616123) [[Amazon]](https://www.amazon.com/dp/1804617830)
